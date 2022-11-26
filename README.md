@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @KseniiaOshchepkova
-- 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning at Yandex.Practiсum.
+- 👀 I’m interested in analytics.
+- 🌱 I want to grow up to be a professional business analyst
 
-You can contact me by email: osenka67@yandex.ru
+You can contact me by email: osenka67@yandex.ru  
+and Telegram @KseniiaOshchepkova
 
 <!---
 KseniiaOshchepkova/KseniiaOshchepkova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
