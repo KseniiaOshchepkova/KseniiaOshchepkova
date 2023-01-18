@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KseniiaOshchepkova
 - 👀 I’m interested in analytics.
-- 🌱 I want to grow up to be a professional business analyst
+- 🌱 I want to grow up to be a professional analyst
 
 You can contact me by email: osenka67@yandex.ru  
 and Telegram @KseniiaOshchepkova
